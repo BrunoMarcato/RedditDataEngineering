@@ -2,4 +2,4 @@
 
 ---
 
-![Reddit Logo](/readme_images/reddit_logo.png "Reddit Logo")
+![Reddit Logo](/assets/reddit_logo.png "Reddit Logo")
